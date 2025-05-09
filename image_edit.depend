@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1732201578 source:c:\users\islfd\documents\but-informatique\s1\image_edit\main.cpp
+	<iostream>
+	<vector>
+	"fonction.h"
+
+1732546334 c:\users\islfd\documents\but-informatique\s1\image_edit\fonction.h
+	<fstream>
+	<iostream>
+	<vector>
+
+1732547258 source:c:\users\islfd\documents\but-informatique\s1\image_edit\fonction.cpp
+	"fonction.h"
+	<fstream>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
